@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serwenyi</h1>
-<h3 align="center">I'm programming Minecraft mods, plugins, etc.</h3>
+<h3 align="center">I'm programming anything btw.</h3>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=SerwenyiW&show_icons=true&theme=transparent" alt="serwenyi" /> </p>
 
